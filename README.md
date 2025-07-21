@@ -9,3 +9,5 @@ https://www.kaggle.com/datasets/appasamig/chestxray-augment
 https://www.kaggle.com/datasets/appasamig/augmented-chest-xray-pneumonia
 
 https://www.kaggle.com/datasets/appasamig/cleaned-chest-xray-pneumonia
+
+For GAN AC, DC, Progressive.
